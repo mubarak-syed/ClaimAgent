@@ -1,0 +1,6 @@
+{
+  "name": "ClaimLens — AI Claims Specialist & Appeal Engine",
+  "description": "Automate parsing, policy comparison, clause extraction, and appeal letter generation for denied insurance claims with interactive portal auto-fill.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
